@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "infoHover",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "cae60fbe-6915-40b3-9434-8b0c4fd4dd56"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "69f1c3e4-4bae-4589-bd61-310fc0ee6555"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "d4de9d69-c9dc-4856-84d0-c32b27633a45",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "short_anime_hair": {
+      "ver": "1.0.3",
+      "uuid": "5a35e0b1-08d5-46b2-a7bf-57d9536ff3c4",
+      "rawTextureUuid": "d4de9d69-c9dc-4856-84d0-c32b27633a45",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 190,
+      "height": 237,
+      "rawWidth": 190,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

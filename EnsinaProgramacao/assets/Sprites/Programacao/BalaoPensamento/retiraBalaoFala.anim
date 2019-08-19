@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "retiraBalaoFala",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 8.3333333,
+            "y": 10.4166667
+          }
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 3285.8333333
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 2000
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": -866.6666667
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 1000
+        }
+      ]
+    }
+  },
+  "events": []
+}

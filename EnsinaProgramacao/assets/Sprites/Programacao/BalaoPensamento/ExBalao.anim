@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ExplosãoBalão",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.2666666666666666,
+  "sample": 60,
+  "speed": 1.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e8476b2d-a619-4527-905c-1607deffcabc"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "091e1be9-3125-46e4-8651-184b94265a5f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f0687701-27ab-4094-82df-cd2226248972"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "cefde0be-1525-407c-95ad-fe14631c97fe"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "a879ca9f-4043-4287-b8f1-bebf28501e49"
+            }
+          },
+          {
+            "frame": 1.25,
+            "value": null
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

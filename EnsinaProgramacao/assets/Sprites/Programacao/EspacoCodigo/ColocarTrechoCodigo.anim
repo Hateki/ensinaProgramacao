@@ -1,0 +1,58 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ColocarTrechoCodigo",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1.8,
+  "wrapMode": "0",
+  "curveData": {
+    "paths": {},
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": null
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "556ad135-7337-4dd1-a523-6da6919f3c23"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "bd247ee0-ee69-4962-b123-1fb24a991909"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "d01ab30b-0955-46ee-8910-32bfc2c4f67a"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "6ebbcca5-bac5-420c-8829-1c5d5205baa9"
+            }
+          },
+          {
+            "frame": 1.6666666666666667,
+            "value": {
+              "__uuid__": "1f6b1ca7-5304-4fbd-a2d7-b253f85c8f76"
+            }
+          },
+          {
+            "frame": 2,
+            "value": null
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

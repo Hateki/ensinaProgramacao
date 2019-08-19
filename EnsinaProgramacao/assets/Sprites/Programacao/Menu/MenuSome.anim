@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MenuSome",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -450,
+            85
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -824,
+            85
+          ]
+        }
+      ],
+      "skewX": [
+        {
+          "frame": 0,
+          "value": 6
+        },
+        {
+          "frame": 0.25,
+          "value": -6
+        }
+      ]
+    }
+  },
+  "events": []
+}

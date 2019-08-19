@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "chefeFalando",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 0.9,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8bf05af3-20de-4b61-a1e8-47bb05751a7f"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "533a14a1-a42f-4fdf-b417-dbbaabb83c4e"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "fc944003-ad4a-4862-9f90-edc8905eb895"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "e31cc67b-65ae-44b1-b3fe-f59ecf38fb6d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

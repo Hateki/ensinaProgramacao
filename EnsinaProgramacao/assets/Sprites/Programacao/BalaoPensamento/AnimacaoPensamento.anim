@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "AnimacaoPensamento",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 0.8,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e8476b2d-a619-4527-905c-1607deffcabc"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b2eeb0f3-95c8-4a89-8538-508e6b8a3e5e"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "27a91257-568a-4a7d-be0e-016d5028abf0"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "e1176f37-9a2d-4303-8d74-d1d1f7c6c9e8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

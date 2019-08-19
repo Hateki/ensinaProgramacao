@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "7c839fb8-37ec-4e32-ae7b-48acaa0dcfeb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Relogio": {
+      "ver": "1.0.3",
+      "uuid": "493004dd-cca8-4f30-b9a1-fad529dab189",
+      "rawTextureUuid": "7c839fb8-37ec-4e32-ae7b-48acaa0dcfeb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 3,
+      "width": 135,
+      "height": 234,
+      "rawWidth": 142,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
